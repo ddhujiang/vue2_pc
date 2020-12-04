@@ -15,7 +15,7 @@
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "element-ui": "^2.4.9",
     "highlight": "^0.2.4",
-    "highlight.js": "^9.13.1",
+    "highlight.js": "^10.4.1",
     "js-cookie": "^2.2.0",
     "lowdb": "^1.0.0",
     "nprogress": "^0.2.0",
